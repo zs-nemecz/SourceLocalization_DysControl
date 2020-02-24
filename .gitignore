@@ -1,0 +1,7 @@
+videos/*
+*.jpg
+*.png
+*.mov
+.ipynb_checkpoints
+.idea/*
+*.pkl
