@@ -1,0 +1,12 @@
+Source Localization TODO
+
+*** Check individual evoked data for both experiments, visually inspect evoked potentials
+  *** check with whitening - 2 noise covs
+# Check residuals for source estimate data - both cov mats, dSPM, MNE
+# run preprocessing steps on the epoched files (download updated code from GitLab)
+# regress ET coefficients (?)
+# make jupyter notebook from cluster-stats results (save stc with clusters)
+  # rerun stats with looser initial p
+# upload code to github
+# make summary
+# read lit
